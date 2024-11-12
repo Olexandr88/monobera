@@ -12,7 +12,7 @@
     Monorepo for maintaining Berachain Applications & Libraries
 <p>
 
-![CI](https://github.com/berachain/monobera/actions/workflows/quality.yml/badge.svg?branch=v2)
+[![CI](https://img.shields.io/codefactor/grade/github/repo-helper/remotezip-stubs?logo=codefactor)](https://github.com/berachain/monobera/actions/workflows/quality.yml)
 
 ## Installation
 
